@@ -1,0 +1,3 @@
+Hello world! This is a sample text file.
+This file is used to practice reading, manipulating, and analyzing text.
+Feel free to add more lines or words to test your program.
